@@ -16,7 +16,7 @@ Biomedische wetenschappen zit volgens de internationale definitie bij “Gezondh
 
 En hoewel de genderdoelstelling volgens de Vlaamse definitie behaald lijkt, is daarmee het STEM-probleem niet opgelost. Het aandeel vrouwen dat voor een STEM-richting kiest, in de strikte definitie, is veel kleiner dan het percentage vrouwen dat voor een richting binnen Gezondheid en welzijn kiest. Het verschil is zelfs groot, vooral bij ICT.
 
-![alt text](https://public.flourish.studio/visualisation/6730623/)
+![verdeling-vrouwen-belgie](https://user-images.githubusercontent.com/81591790/149681816-e5375a64-10a2-49dd-a629-092d7d07cd3a.png)
 
 ## Internationale trend
 
@@ -24,7 +24,7 @@ ICT, IT of andere studies met computervaardigheden zoals computerwetenschappen, 
 
 Bovendien houdt die trend al langer aan dan vandaag. In 1983 was computerwetenschappen en informatica een redelijk populaire richting voor vrouwen in de Verenigde Staten (VS). Toen werd nog 37 procent van de diploma’s in computerwetenschappen uitgereikt aan vrouwen. Dat percentage is sindsdien bijna gehalveerd.
 
-![alt text](https://public.flourish.studio/visualisation/6730623/)
+![diplomas-vs](https://user-images.githubusercontent.com/81591790/149681793-c015f583-7cb0-4258-a1cc-9e2e27334efa.png)
 
 Dat gebrek aan vrouwen in technologie zou niet zo’n groot probleem zijn, moesten technologie en digitale vaardigheden niet zo dominant zijn in ons dagelijks leven.
 
